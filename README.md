@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamber Borders
-- 👀 I’m interested in Windows Automation, Vegetable Gardening, Hunting/Fishing, and Video Games
+- 👀 I’m interested in Windows Automation, Survivalism, and Video Games
 - 🌱 I’m currently learning how to manage Apple devices
 - 💞️ I’m looking to collaborate on Windows and MS automation at scale
 - 📫 You can reach me at kamber.borders@gmail.com
