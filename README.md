@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Kamber Borders
-- 👀 I’m interested in Windows things, Self-Suffiency, and Video Games
-- 🌱 I’m currently learning how to manage Apple devices
+- 👋 Hi, I’m Kam
+- 👀 I’m interested in Windows automation and Video Games
 - 💞️ I’m looking to collaborate on Windows automation
 - 📫 You can reach me at kamber.borders@gmail.com
 
